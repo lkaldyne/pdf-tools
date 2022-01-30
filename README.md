@@ -16,6 +16,7 @@ pip3 install PyPDF2
 ## Page Extractor
 ### Removes pages in PDFs based on user selection
 - Can be run via the following command: ```python3 page-extractor.py```
+- Runs on all PDFs in the `input/` dir
 - Pages should be specified using comma-separated values
 - User can choose whether selected pages should be kept or removed
 
